@@ -1,0 +1,16 @@
+body{
+  background-color: #f5f5dc;
+  margin-left: 20px;
+  
+}
+h1, h3{
+  color:brown ;
+  
+}
+input {
+  border-radius: 5px;
+  border: solid brown;
+  padding: 5px;
+  color: brown;
+  
+}
