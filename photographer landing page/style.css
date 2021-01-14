@@ -1,0 +1,29 @@
+body {
+    background-color: linen;
+    text-align: center;
+
+}
+
+h1 {
+    
+    padding: 40px 0 40px 0;
+    margin: 65px 20 65px 20;
+    border: solid 5px green;
+    border-radius: 50px;
+    background: linear-gradient(135deg, sandyBrown, saddleBrown, pink,salmon, blue);
+    font-size: 60px;
+    color: white;
+}
+
+p {
+    font-size: 25px;
+    font-family: cursive;
+    color: #000;
+}
+
+img { 
+    width: 150px;
+    padding: 10px;
+    background: linear-gradient(225deg, pink, purple, darkblue);
+    border-radius: 20px;
+}
